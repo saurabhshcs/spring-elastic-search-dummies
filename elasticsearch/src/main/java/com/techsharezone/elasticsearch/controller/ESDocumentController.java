@@ -13,9 +13,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by JavaDeveloperZone.
- */
 @RestController
 public class ESDocumentController {
 
