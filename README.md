@@ -29,9 +29,6 @@ In order to force the download of dependencies outside of IntelliJ:
 #### Run tests (also runs big tests)
 `./gradlew clean test`
 
-#### Run big tests only
-`./gradlew clean bigTest`
-
 #### Build conditionally on tests
 `./gradlew clean build`  
 
