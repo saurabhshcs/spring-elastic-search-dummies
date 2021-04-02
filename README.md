@@ -1,5 +1,5 @@
 # spring-elastic-search-dummies
-
+> This is simple Elastic search example using Spring boot for text based search.
 
 ## Build - gradle
 dependencies used - spring-jpa, spring-web, spring-security, io.jsonwebtoken, mysql-connector
