@@ -11,8 +11,6 @@ dependencies used - spring-jpa, spring-web, spring-security, io.jsonwebtoken, my
 - Elastic Search dependecy
 - Gradle
 
-## Local environment
-
 In order to run the Integration tests a Postgres database is required.
 
 ### Running service for the first time
