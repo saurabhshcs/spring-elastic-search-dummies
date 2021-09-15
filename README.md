@@ -7,7 +7,7 @@ dependencies used - spring-jpa, spring-web, spring-security, io.jsonwebtoken, my
 # How to run this application
 
 ## Machine Prerequisite
-- Java 8 or later
+- Java 11 or later
 - Elastic Search dependecy
 - Gradle
 
